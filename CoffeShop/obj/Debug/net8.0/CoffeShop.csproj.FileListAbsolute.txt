@@ -1,0 +1,12 @@
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\bin\Debug\net8.0\CoffeShop.deps.json
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\bin\Debug\net8.0\CoffeShop.dll
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\bin\Debug\net8.0\CoffeShop.pdb
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.dll
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\refint\CoffeShop.dll
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\CoffeShop.pdb
+C:\Users\MONSTER\source\repos\CoffeShop\CoffeShop\obj\Debug\net8.0\ref\CoffeShop.dll
